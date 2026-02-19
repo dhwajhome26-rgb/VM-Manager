@@ -93,4 +93,4 @@ https://github.com/dhwajhome26-rgb/VM-Manager
 Run the platform using a single command:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/dhwajhome26-rgb/VM/main/dxd-vps.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/dhwajhome26-rgb/VM/main/vm.sh)
