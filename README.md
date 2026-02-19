@@ -93,4 +93,4 @@ https://github.com/dhwajhome26-rgb/VM
 Run the platform using a single command:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/dhwajhome26-rgb/VM/main/vm-core.sh | sed 's/ \r$//')
+bash <(curl -fsSL https://raw.githubusercontent.com/dhwajhome26-rgb/VM/main/vm-core.sh | sed 's/\r$//')
