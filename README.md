@@ -85,7 +85,7 @@ All images are **official cloud images**.
 ## 💻 GitHub Repo
 
 ```bash
-https://github.com/dhwajhome26-rgb/VM
+https://github.com/dhwajhome26-rgb/VM-Manager
 ```
 
 ## 📥 One-Command Installation
